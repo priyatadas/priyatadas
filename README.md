@@ -2,7 +2,6 @@
 
 <!--
 **priyatadas/priyatadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 I love programming, and listening songs 
 🔭 I’m currently working on some server side projects
@@ -11,3 +10,4 @@ I love programming, and listening songs
 🌱 I’m addicted to learning and growing every day
 📫 How to find me:
 🏢 LinkedIn(https://www.linkedin.com/in/priyata-das-0045951b2)
+
