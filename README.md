@@ -1,10 +1,10 @@
  👋 I am Priyata
-Here are some ideas to get you started:
-I love programming, and listening songs 
-🔭 I’m currently working on some server side projects
+Here are some ideas to get you started:\n
+I love programming, and listening songs \n
+🔭 I’m currently working on some server side projects\n
 
-🌱 I’m currently learning Python, java
-🌱 I’m addicted to learning and growing every day
-📫 How to find me:
+🌱 I’m currently learning Python, java\n
+🌱 I’m addicted to learning and growing every day\n
+📫 How to find me:\n
 🏢 LinkedIn(https://www.linkedin.com/in/priyata-das-0045951b2)
 
